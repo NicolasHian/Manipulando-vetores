@@ -1,6 +1,6 @@
 # Exercícios de Java
 
-Repositório com os exercícios que estou fazendo para aprender Java na faculdade (Análise e Desenvolvimento de Sistemas – UniCEUB).
+Repositório com os exercícios que estou fazendo para aprender Java na faculdade (Análise e Desenvolvimento de Sistemas).
 
 O foco aqui é praticar a base da linguagem: vetores, laços de repetição, condicionais, leitura de dados com `Scanner` e organização do código em métodos.
 
